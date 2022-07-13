@@ -1,7 +1,7 @@
 <?php
 
 /**
- *  Plugin Name: InfixNode Insert Headers and Footers
+ *  Plugin Name: WordPress Insert Headers and Footers
  * * Version: 1.0.0
  *  Description: How to create custom meta box in post edit page
  *  Author: InfixNode
